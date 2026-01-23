@@ -81,7 +81,7 @@ catalogs:
     '@vscode/l10n': ^0.0.18
     alien-signals: ^3.0.3
     axios: ^1.12.2
-    birpc: ^2.6.1
+    birpc: ^4.0.0
     chokidar: ^4.0.3
     consola: ^3.4.2
     defu: ^6.1.4
