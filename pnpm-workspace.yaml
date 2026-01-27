@@ -11,7 +11,7 @@ catalogs:
     reactive-vscode: ^0.3.2
     rimraf: ^6.0.1
     ts-macro: ^0.3.6
-    type-fest: ^4.41.0
+    type-fest: ^5.4.2
     vscode-ext-gen: ^1.1.0
   frontend:
     '@iconify-json/ph': ^1.2.2
